@@ -1,1 +1,19 @@
-# Burger
+# HW  Eat-Da-Burger
+Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.
+
+## Live Link 
+	(under construction)
+
+## How to use the Application
+
+1. In the text area type in the name of a burger that you would like to eat, and hit the 'Thumbs up' button. 
+
+2. Burgers in the MySQL database will appear
+
+
+# Technologies Used 
+
+- Node.js
+- MySQL Workbench 
+- Node Packages (express, mysql, express-handlebars, body-parser, method-override )
+- Bootstrap
