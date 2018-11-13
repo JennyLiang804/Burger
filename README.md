@@ -3,6 +3,7 @@ Eat-Da-Burger! is a restaurant app that lets users input the names of burgers th
 
 ## Live Link 
 	https://dry-dawn-52633.herokuapp.com/
+    **App works in local host, need help with deploying to Heroku properly**
 
 ## How to use the Application
 
